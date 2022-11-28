@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrakharPatidar
-- 👀 I’m interested in computer vision on large scale.
+- 👀 I’m interested in any software project involving python.
 - 🌱 I’m currently learning tensflow (on jetson nano) and arangodb.
 - 💞️ I’m looking to collaborate on any datascience or engineering project.
 - 📫 You can reach me on prakhar.patidar987@gmail.com
